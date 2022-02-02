@@ -27,7 +27,7 @@ aside {
     margin-left:10%;
     background-color: #f2cc8f;
     margin-top: 5%;
-    margin-bottom: 5%
+    margin-bottom: 5%;
 }
 h1 {
     font-size: 300%;
@@ -48,16 +48,16 @@ footer p {
 img {
     max-width: 700px;
 }
-@media only screen and (min-width: 481px){
+
+@media only screen and (min-width: 481px) {
     main {
         display: flex;
         flex-direction: row-reverse;
     }
     aside {
         width: 90%;
-        margin-left:5%;
+        margin-left: 5%;
         margin-top: 2%;
-        margin-bottom: 2%
+        margin-bottom: 2%;
     }
 }
-
